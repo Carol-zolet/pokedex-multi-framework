@@ -42,6 +42,10 @@ Localizado na pasta `/pokedex_flutter`, este protótipo valida:
    npm install
    npx expo start
 
+![React tela 1](https://github.com/user-attachments/assets/2a9dae04-177a-4b38-9ac5-4fe7b09a503c)
+![React tela 2](https://github.com/user-attachments/assets/eb60c4bd-79e2-4a77-b465-13b3a55ea2d5)
+![React tela 3](https://github.com/user-attachments/assets/993b7d65-555e-443d-978c-c3acd4440ba9)
+
    Para o Flutter:
 
 Bash
@@ -49,5 +53,13 @@ cd pokedex_flutter
 flutter pub get
 flutter run
 
+![Flutter](https://github.com/user-attachments/assets/61809337-5cfe-423e-acbb-c437cb4d7adc)
+
+
+
 👩‍💻 Autora
 Caroline Zolet Estudante de Análise e Desenvolvimento de Sistemas - PUCRS.
+
+
+
+
